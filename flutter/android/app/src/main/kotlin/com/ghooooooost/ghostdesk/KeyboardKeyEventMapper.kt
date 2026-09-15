@@ -1,4 +1,4 @@
-package hbb;
+﻿package hbb;
 import android.view.KeyEvent
 import android.view.KeyCharacterMap
 import hbb.MessageOuterClass.KeyboardMode
